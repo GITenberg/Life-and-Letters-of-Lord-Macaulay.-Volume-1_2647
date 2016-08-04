@@ -1,0 +1,31 @@
+_repo: Life-and-Letters-of-Lord-Macaulay.-Volume-1_2647
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trevelyan, George Otto
+    aliases:
+    - Trevelyan, G. O. (George Otto)
+    - Trevelyan, George Otto, Sir
+    birthdate: 1838
+    deathdate: 1928
+    gutenberg_agent_id: '985'
+    url: http://www.gutenberg.org/2009/agents/985
+    wikipedia: http://en.wikipedia.org/wiki/George_Otto_Trevelyan
+description: ''
+gutenberg_issued: '2001-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2647'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcc 'DA'
+- !lcsh 'Macaulay, Thomas Babington Macaulay, Baron, 1800-1859'
+- !lcsh 'Historians -- Great Britain -- Biography'
+- !lcsh 'Statesmen -- Great Britain -- Biography'
+- GITenberg
+title: Life and Letters of Lord Macaulay. Volume 1
+url: http://www.gutenberg.org/ebooks/2647
