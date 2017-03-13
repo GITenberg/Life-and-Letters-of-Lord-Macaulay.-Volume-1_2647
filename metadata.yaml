@@ -1,5 +1,8 @@
 _repo: Life-and-Letters-of-Lord-Macaulay.-Volume-1_2647
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trevelyan, George Otto
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/985
     wikipedia: http://en.wikipedia.org/wiki/George_Otto_Trevelyan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2647#Life-and-Letters-of-Lord-Macaulay.-Volume-1
 gutenberg_issued: '2001-05-01'
 gutenberg_type: Text
 identifiers:
